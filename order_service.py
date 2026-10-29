@@ -1,3 +1,4 @@
+# Код для проверки
 import time
 import hashlib
 
